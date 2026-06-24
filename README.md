@@ -1,4 +1,4 @@
-# Morphological Image Processing with OpenCV
+# Morphological Image Processing with OpenCV + Persian Report
 
 This repository contains the implementation and analysis of fundamental morphological image processing operations using OpenCV in Python. The project investigates the behavior of **Dilation** and **Erosion** using different structuring elements and kernel sizes. The effects of these operations are evaluated on binary and grayscale images for shape transformation, noise reduction, and edge detection.
 
